@@ -6,6 +6,7 @@ Coursework for CS 100, using *Python Programming: An Introduction to Computer Sc
 
 - `programs/`: all programming exercises, in one folder (the syllabus requires `graphics.py` to sit next to them from Chapter 4 on). Name them `chNN_peNN.py`, e.g. `ch02_pe05.py`.
 - `exercises/`: written chapter exercises, one file per chapter, e.g. `ch01.md`.
+- `brocode/`: code-along files for the 101 Bro Code lessons (`bc001_...py` to `bc101_...py`). Each file's header links to that lesson's timestamp in the video.
 
 ## Progress
 
